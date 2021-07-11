@@ -266,9 +266,17 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
+    .read-more {
+    text-transform: none;
     font-size: 15px;
+    display: inline-block;
+    padding:5px 15px;
+    background:#00A0DF;
+    color:#fff;
+    font-size:18px;
+    border-radius:5px;
+    text-decoration:none;
+    font-family: 'Open Sans', Verdana, Arial, sans-serif;
   }
 }
 
