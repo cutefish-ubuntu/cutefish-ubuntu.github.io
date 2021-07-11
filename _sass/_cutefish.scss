@@ -33,9 +33,14 @@ font-size: 18px;
 border-radius: 50px;
 text-decoration: none;
 font-family: 'Open Sans', Verdana, Arial, sans-serif; }
+
 .download a {
   text-decoration: none;
   color: #fff;
+}
+
+.download a:hover {
+    color: #fff;
 }
 
 #cutefish_1, #cutefish_2 {
