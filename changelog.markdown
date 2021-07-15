@@ -1,6 +1,5 @@
 ---
-title: changelog
-date: 2021-07-15 20:18:00 Z
+title: Changelog
 permalink: "/changelog/"
 layout: page
 ---
