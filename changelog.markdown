@@ -1,6 +1,8 @@
 ---
 title: changelog
 date: 2021-07-15 20:18:00 Z
+permalink: "/changelog/"
+layout: page
 ---
 
 ## **Cutefish-Ubuntu v0.1 Beta - Developer Edition**
