@@ -1,0 +1,19 @@
+---
+title: changelog
+date: 2021-07-15 20:18:00 Z
+---
+
+## **Cutefish-Ubuntu v0.1 Beta - Developer Edition**
+
+cutefish-DE            0.3
+cutefish-calculator    0.1
+cutefish-core          0.3 
+cutefish-dock          0.3 
+cutefish-filemanager   0.3 
+cutefish-icons         0.3 
+cutefish-kwin-plugins  0.3 
+cutefish-launcher      0.3 
+cutefish-qt-plugins    0.3
+cutefish-settings      0.3
+cutefish-statusbar     0.3
+cutefish-wallpapers    0.2
