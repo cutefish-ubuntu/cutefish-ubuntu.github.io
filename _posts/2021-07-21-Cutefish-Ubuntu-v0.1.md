@@ -6,7 +6,7 @@ layout: post
 
 <table border="1">
 <thead>
-<tr>
+<tr border="1">
 <th><strong>Name</strong></th>
 <th><strong>&nbsp;Version <br /></strong></th>
 <th><strong>Description</strong></th>
