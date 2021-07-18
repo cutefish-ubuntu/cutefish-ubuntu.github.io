@@ -4,6 +4,8 @@ date: 2021-07-21 00:00:00 Z
 layout: post
 ---
 
+<p>The first beta version of the Cutfish built on Ubuntu distribution. An assembly includes a standard set of package and developer libraries that have been compiled and installed from the developer source. Related bugs and package dependencies have also been fixed.</p>
+
 <table border="1">
 <thead>
 <tr>
