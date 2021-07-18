@@ -7,9 +7,9 @@ layout: default
 <table border="1">
 <thead>
 <tr>
-<th><strong>Name</strong></th>
-<th><strong>&nbsp;Version <br /></strong></th>
-<th><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Name</strong></th>
+<th style="text-align: left;"><strong>Version <br /></strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -85,3 +85,4 @@ layout: default
 </tr>
 </tbody>
 </table>
+
