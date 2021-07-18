@@ -8,8 +8,8 @@ layout: default
 <thead>
 <tr>
 <th style="text-align: left;"><strong>Name</strong></th>
-<th style="text-align: left;"><strong>Version <br /></strong></th>
-<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Version<br /></strong></th>
+<th style="text-align: center;"><strong>Description</strong></th>
 </tr>
 </thead>
 <tbody>
