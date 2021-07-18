@@ -13,7 +13,7 @@ description: Cutefish Built on Ubuntu
 avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/cutefish-logo.png
 footer-links:
   dribbble: 
-  email: 
+  email: cutefish.ubuntu@gmail.com
   facebook: 
   flickr: 
   github: cutefish-ubuntu
@@ -25,7 +25,7 @@ footer-links:
   stackoverflow: 
   youtube: 
 disqus: 
-google_analytics: 
+google_analytics: G-PXWBYKLNGL
 url: https://cutefish-ubuntu.github.io/
 baseurl: 
 markdown: redcarpet
