@@ -6,8 +6,8 @@ layout: page
 
 ## **Cutefish-Ubuntu v0.1 Beta - Developer Edition**
 
-|            Name           | Version |                                          Description                                          |
-|:-------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|
+| Name                      | Version | Description                                                                                   |
+|---------------------------|---------|-----------------------------------------------------------------------------------------------|
 | cutefish-system-version   |   0.3   | Cutefish desktop environment                                                                  |
 | cutefish-calculator       |   0.1   | CutefishOS Calculator                                                                         |
 | cutefish-core             |   0.3   | System components and backend of CutefishOS                                                   |
