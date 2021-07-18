@@ -4,7 +4,6 @@ date: 2021-07-21 00:00:00 Z
 layout: post
 ---
 
-<p>&nbsp;</p>
 <table>
 <thead>
 <tr>
