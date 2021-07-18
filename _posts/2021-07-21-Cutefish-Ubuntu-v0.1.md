@@ -7,9 +7,9 @@ layout: post
 <table border="1">
 <thead>
 <tr>
-<th><strong>Name</strong></th>
-<th><strong>&nbsp;Version <br /></strong></th>
-<th><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Name</strong></th>
+<th style="text-align: left;"><strong>Version<br /></strong></th>
+<th style="text-align: center;"><strong>Description</strong></th>
 </tr>
 </thead>
 <tbody>
