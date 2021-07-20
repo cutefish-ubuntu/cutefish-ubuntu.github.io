@@ -24,16 +24,16 @@ footer-links:
   twitter: 
   stackoverflow: 
   youtube: 
-disqus: 
+disqus: cutefish-ubuntu
 google_analytics: 
 url: https://cutefish-ubuntu.github.io/
-baseurl: ''
+baseurl: 
 markdown: redcarpet
 highlighter: pygments
 permalink: "/:title/"
 version: v1.0.0
 sass:
-  style: :expanded
+  style: expanded
 gems:
 - jekyll-sitemap
 exclude:
