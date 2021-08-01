@@ -1,6 +1,7 @@
 ---
 title: Settings Manager
 date: 2021-08-01 11:17:00 Z
+layout: post
 ---
 
 ![Screenshot from 2021-07-26 14-23-50.png](/uploads/Screenshot%20from%202021-07-26%2014-23-50.png)
