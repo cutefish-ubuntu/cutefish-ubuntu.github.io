@@ -7,11 +7,11 @@ layout: post
 # CutefishOS Ubuntu v0.4
 
 ## Download:
-- **Mega:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3Dcyd7s)
-- **Direct link:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3k8k5U3)
+ **Mega:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3Dcyd7s)  
+ **Direct link:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3k8k5U3)  
 
 ## What's new?
-- CutefishOS Ubuntu v0.4 Update List
+   CutefishOS Ubuntu v0.4 Update List
 
 ## Cutefish repository
 - CutefishOS package repository and all required dependencies.
