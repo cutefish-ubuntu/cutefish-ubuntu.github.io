@@ -1,6 +1,6 @@
 ---
 title: Download
-permalink: "/download/"
+permalink: "/downloads/"
 layout: post
 ---
 
