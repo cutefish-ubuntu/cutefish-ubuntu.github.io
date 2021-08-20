@@ -1,4 +1,5 @@
 ---
+title: Download
 permalink: "/download/"
 layout: post
 ---
