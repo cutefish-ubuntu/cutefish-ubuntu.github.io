@@ -1,5 +1,4 @@
 ---
-title: 
 permalink: "/download/"
 layout: page
 ---
