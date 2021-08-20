@@ -1,6 +1,6 @@
 ---
 permalink: "/download/"
-layout: page
+layout: post
 ---
 
 # Cutefish Built on Ubuntu 21.04 (Hirsute hippo) 
