@@ -23,7 +23,7 @@ CutefishOS package repository and all required dependencies.
 
 Alternative package manager for Cutefish repository. The new package manager will allow you to quickly install updates that will be rolled out according to the Rolling Release model.  
 
-**How to use:**
+**How to use:**  
 Usage: tap (command) (packages/options)    
 For example:   
 `tap install cutefish-core`     
