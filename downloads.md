@@ -6,7 +6,7 @@ layout: page
 
 # Cutefish Built on Ubuntu 21.04 (Hirsute hippo) 
 
-<hr>
+---
 
 ## CutefishOS Ubuntu v0.4
 
