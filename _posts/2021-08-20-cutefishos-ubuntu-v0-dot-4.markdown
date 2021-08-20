@@ -11,13 +11,13 @@ layout: post
 - **Direct link:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3k8k5U3)
 
 ## What's new?
-CutefishOS Ubuntu v0.4 Update List
+- CutefishOS Ubuntu v0.4 Update List
 
 ## Cutefish repository
-CutefishOS package repository and all required dependencies.
+- CutefishOS package repository and all required dependencies.
 
 ## Package manager
-Alternative package manager for Cutefish repository. The new package manager will allow you to quickly install updates that will be rolled out according to the Rolling Release model.
+- Alternative package manager for Cutefish repository. The new package manager will allow you to quickly install updates that will be rolled out according to the Rolling Release model.
 
 **How to use:**
 - Usage: tap (command) (packages/options)  
@@ -39,16 +39,16 @@ Alternative package manager for Cutefish repository. The new package manager wil
 - -V, --version Print version information and exit
 
 ## Alternative Settings Center
-Alternative Settings Center - Advanced System Settings.
+- Alternative Settings Center - Advanced System Settings.
 
 ## Calamares
-Updated Calamares with Qt shell, fixed flags, default Brtfs markup in automatic mode. Option to enable/disable Swap
+- Updated Calamares with Qt shell, fixed flags, default Brtfs markup in automatic mode. Option to enable/disable Swap
 
 ## zRam
-zRam by default with automatic configuration during system installation.
+- zRam by default with automatic configuration during system installation.
 
 ## PipeWire
-PipeWire is also configured by default to work correctly, in the alternative settings center, additional settings for PipeWire have been added
+- PipeWire is also configured by default to work correctly, in the alternative settings center, additional settings for PipeWire have been added
 
 ## Settings
 
