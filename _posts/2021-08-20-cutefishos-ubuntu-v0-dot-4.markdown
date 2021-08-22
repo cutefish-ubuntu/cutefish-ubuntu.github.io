@@ -4,8 +4,6 @@ date: 2021-08-20 00:02:00 Z
 layout: post
 ---
 
-# CutefishOS Ubuntu v0.4
-
 ## Download:
 
 **Mega:** [CutefishOS Ubuntu v0.4 Beta Developer Edition](https://bit.ly/3Dcyd7s)  
