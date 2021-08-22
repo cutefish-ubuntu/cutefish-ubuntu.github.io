@@ -5,7 +5,8 @@ layout: post
 ---
 
 <div align="center">
-    <h1><a href="https://github.com/cutefishos-ubuntu/mpr-packages">MPR Package Repositorie</a></h1>
+    <h1>MPR Package Repositorie</h1>
+<p><a href="https://github.com/cutefishos-ubuntu/mpr-packages" target="_blank" rel="noopener">GitHub MPR-Packages</a></p>
     <img height="150" src="https://dl.uploadgram.me/6119620f0356eh?raw">
 </div>
 
