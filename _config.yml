@@ -9,33 +9,21 @@ collections:
     title: Uploads
     output: true
 name: CutefishOS
-description: Cutefish Built on Ubuntu
+email: your-email@example.com
+description: CutefishOS Built on Ubuntu
 avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/cutefish-logo.png
-footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
-  github: cutefish-ubuntu
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: 
-  twitter: 
-  stackoverflow: 
-  youtube: 
-disqus: cutefish-ubuntu
-google_analytics: G-PXWBYKLNGL
-url: https://cutefish-ubuntu.github.io/
 baseurl: 
-markdown: redcarpet
+url: https://cutefish-ubuntu.github.io/
+twitter_username: 
+github_username: 
+markdown: kramdown
 highlighter: pygments
 permalink: "/:title/"
-version: v1.0.0
+remote_theme: jekyll-now
+plugins:
+- jekyll-feed
 sass:
   style: expanded
-gems:
-- jekyll-sitemap
 exclude:
 - Gemfile
 - Gemfile.lock

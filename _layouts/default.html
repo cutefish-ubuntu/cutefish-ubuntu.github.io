@@ -10,6 +10,8 @@
     <![endif]-->
     
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
@@ -27,7 +29,7 @@
           </div>
 
           <nav>
-            <a href="https://cutefish-ubuntu.github.io/">Home</a>
+            <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/blog">Blog</a>
             <a href="{{ site.baseurl }}/download">Download</a>
             <a href="{{ site.baseurl }}/donate">Donate</a>
@@ -41,20 +43,58 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-          <p style="text-align: center;">&copy; 2021 Maksym Titenko<br />Ubuntu is a Trademark of Canonical Ltd. CutefishOS is a Trademark of CutefishOS Team.</p>
-          <!--PayPal-->
-          <form action="https://www.paypal.com/donate" method="post" target="_top">
-          <input type="hidden" name="hosted_button_id" value="R8FEUJJYLUTD2" />
-          <input type="image" src="https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/donate-paypal.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-          <img alt="" border="0" src="https://www.paypal.com/en_PL/i/scr/pixel.gif" width="1" height="1" />
-          </form>
-          <!--PayPal-End-->
-        </footer>
-      </div>
+<div class="wrapper-footer">
+
+    <footer id="myFooter">
+        <div class="footer-container">
+            <div class="row">
+                <div class="col-sm-3">
+                    <h5>Menu:</h5>
+                    <ul>
+                        <li><a href="{{ site.baseurl }}/">Home</a></li>
+                        <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
+                        <li><a href="{{ site.baseurl }}/download">Download</a></li>
+                        <li><a href="{{ site.baseurl }}/donate">Donate</a></li>
+                        <li><a href="{{ site.baseurl }}/about">About</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Friends:</h5>
+                    <ul>
+                        <li><a href="https://jingos.com/">JingOS</a></li>
+                        <li><a href="https://mpr.hunterwittenborn.com/">MPR</a></li>
+                        <li><a href="https://github.com/makedeb">Makedeb</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Community:</h5>
+                    <ul>
+                        <li><a href="https://t.me/cutefishos_ubuntu">Telegram Group</a></li>
+                        <li><a href="https://t.me/cutefishos_ubuntu_chat">Telegram Chat</a></li>
+                        <li><a href="https://discord.gg/tRXpm4JP">Discord</a></li>
+                        <li><a href="https://github.com/cutefishos-ubuntu">GitHub</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 info">
+                    <h5>About:</h5>
+                    <p> CutefishOS is a Linux desktop operating system that focuses on simplicity, beauty and practicality. Our goal is to provide users with a comfortable interface design, a better user experience, and meet the needs of various scenarios. </p>
+                </div>
+            </div>
+        </div>
+        <div class="second-bar">
+           <div class="footer-container">
+                <div style="text-align: left;">
+                <a style="text-align: left;" href="{{ site.baseurl }}/"> CutefishOS Ubuntu </a>
+                <div class="social-icons">
+                    <a href="https://github.com/titenko" class="github"><i class="fa fa-github"></i></a>
+                    <a href="https://t.me/maksymtitenko" class="telegram"><i class="fa fa-telegram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <p style="text-align: center;">&copy; 2021 Maksym Titenko</p>
+            <p style="text-align: center;">Ubuntu is a Trademark of Canonical Ltd. CutefishOS is a Trademark of CutefishOS Team.</p>
+        </div>
+    </footer>
     </div>
 
     {% include analytics.html %}
