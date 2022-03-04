@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<html>
+<head>
+  <script src="https://cdn.tiny.cloud/1/umcpaexrmuvce140gm8f6zxwub9pawz8tlpdwmhll1abwyvg/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+</head>
+<body>
+  <textarea>
+    Welcome to TinyMCE!
+  </textarea>
+  <script>
+    tinymce.init({
+      selector: 'textarea',
+      plugins: 'code link bold italic underline strikethrough fontselect fontsizeselect formatselect alignleft aligncenter alignright alignjustify outdent indent numlist bullist forecolor backcolor removeformat pagebreak charmap emoticons fullscreen  preview save print insertfile image media template anchor codesample a11ycheck ltr rtl showcomments addcomment',
+      toolbar: 'code | link | bold italic underline strikethrough | fontselect fontsizeselect formatselect | alignleft aligncenter alignright alignjustify | outdent indent | numlist bullist | forecolor backcolor removeformat | pagebreak | charmap emoticons | fullscreen  preview save print | insertfile image media template anchor codesample | a11ycheck ltr rtl | showcomments addcomment',
+      toolbar_mode: 'floating',
+      });
+  </script>
+</body>
+</html>
