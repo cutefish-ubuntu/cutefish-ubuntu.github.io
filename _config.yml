@@ -11,7 +11,7 @@ collections:
 name: CutefishOS
 email: your-email@example.com
 description: Cutefish OS Built on Ubuntu
-avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/cutefish-logo.png
+avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/branding/Cutefish-Logo.svg
 baseurl: 
 url: https://cutefish-ubuntu.github.io/
 disqus: cutefish-ubuntu
