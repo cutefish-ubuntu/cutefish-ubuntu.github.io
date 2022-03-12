@@ -22,6 +22,7 @@ permalink: "/:title/"
 remote_theme: jekyll-now
 plugins:
 - jekyll-feed
+- jekyll-sitemap
 sass:
   style: expanded
 exclude:
