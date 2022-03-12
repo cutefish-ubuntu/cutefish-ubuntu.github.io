@@ -10,7 +10,7 @@ collections:
     output: true
 name: CutefishOS
 email: your-email@example.com
-description: CutefishOS Built on Ubuntu
+description: Cutefish OS Built on Ubuntu
 avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/cutefish-logo.png
 baseurl: 
 url: https://cutefish-ubuntu.github.io/
