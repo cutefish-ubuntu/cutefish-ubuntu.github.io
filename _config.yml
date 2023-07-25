@@ -10,7 +10,7 @@ collections:
     output: true
 name: CutefishOS
 email: your-email@example.com
-description: Cutefish OS Reborn
+description: CutefishOS Reborn
 avatar: https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/branding/Cutefish-Logo.svg
 baseurl: 
 url: https://cutefish-ubuntu.github.io/
