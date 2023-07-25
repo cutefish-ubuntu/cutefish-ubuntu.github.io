@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CutefishOS Reborn"
+comments: true
 ---
 
 **CutefishOS** - Returns. A new release of **CutefishOS** based on **Debian 12 Bookworm** has been prepared. The original **CutefishOS** has been updated to **Debian 12 Bookworm** stable, dependency bugs have been fixed during the update, and original packages have been updated to be compatible with the Debian 12 package base. Packages have been updated to the current version. Preparatory work was also done for the further development of CutefishOS. At the moment, the original - no longer working repository has been removed and the system has been cleaned of dependencies with the old repository, a new repository is being prepared in which new cutefish packages will be published, as well as additional applications will be added.
