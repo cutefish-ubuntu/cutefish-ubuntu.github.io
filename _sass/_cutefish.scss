@@ -9,6 +9,16 @@
     align-items: center;
 }
 
+.column-first {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 250px; /* Should be removed. Only for demonstration */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* Clear floats after the columns */
 .row:after {
     content: "";
