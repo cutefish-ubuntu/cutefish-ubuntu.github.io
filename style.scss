@@ -42,6 +42,10 @@ body {
     height: 65px;
 }
 
+.btnStyle:hover{
+    background: linear-gradient(228.85deg, #84b3ff 0%, #00A0DF 100%);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
