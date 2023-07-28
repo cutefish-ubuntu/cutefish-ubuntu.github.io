@@ -3,29 +3,12 @@ layout: default
 ---
  
 <div class="logo-img">
-    <img style="display: block; margin-left: auto; margin-right: auto;" src="assets/CutefishOS.svg" alt="" max-width="50%" height="100%" />
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/assets/CutefishOS.svg" alt="" max-width="50%" height="100%" />
+    <p style="font:18pt normal; color: rgba(105, 105, 105, 1); text-align: center; padding-bottom: 20px;">Make a better experience Desktop OS <br /> Focus on simplicity, beauty and practicalit</p>
   </div>
 
-<!-- New Header
-<div style="margin:50 auto;" class="row">
-	<div style="max-width:1140px; margin:0 auto; padding-left:15px; padding-right:15px;">
-		<div style="flex-direction: column;" class="column">
-			  <p style="font-weight: bold; text-align: center;">
-    <span style="font-size: 64px; color: rgba(74, 69, 69, 1); font-weight: 300;">Clear Mindedness</span>
-  <br />
-    <span style="font-size: 64px; color: #00A0DF; font-weight: 800;">Handy</span>
-  </p>
-  <p style="font:18pt normal; color: rgba(105, 105, 105, 1); text-align: center; padding-bottom: 20px;">Make a better experience Desktop OS <br /> Focus on simplicity, beauty and practicalit</p> 
-  <div style="text-align: center;">
-	<input type="button" href="#" class="btnStyle" onclick="window.location.href = '/download'" value="Try it"  input="">
-</div>
-		</div>
-		<div class="column"> <img src="{{ site.baseurl }}/assets/home.a5604e32.png" alt=""  /> </div>
-	</div>
-</div>
--->
 
-<div class="head-img"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/cutefish-ubuntu/cutefish-ubuntu.github.io/master/images/home.a5604e32.png" alt="" width="50%" height="100%" /> </div>
+<div class="head-img"> <img style="display: block; margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/assets/home.a5604e32.png" alt="" width="50%" height="100%" /> </div>
 
   <p style="font-weight: bold; text-align: center;">
     <span style="font-size: 64px; color: rgba(74, 69, 69, 1); font-weight: 300;">Clear Mindedness</span>
@@ -33,48 +16,60 @@ layout: default
     <span style="font-size: 64px; color: #00A0DF; font-weight: 800;">Handy</span>
   </p>
 
-<h1 style="font:18pt normal; color: rgba(105, 105, 105, 1); text-align: center; padding-bottom: 20px;">Make a better experience Desktop OS <br /> Focus on simplicity, beauty and practicalit</h1> 
-
 <div style="text-align: center; padding-bottom: 20px; padding-top: 40px;">
 	<input type="button" href="#" class="btnStyle" onclick="window.location.href = '/download'" value="Try it" <="" input="">
 </div>
 
 <h1 style="font:40px bold;text-align: center; ">Smoother</h1> 
 <h1 style="font:24px normal; color: rgba(105, 105, 105, 1); text-align: center; padding-bottom: 20px;">We pay attention to design, user experience, and every detail</h1> 
-<!-- --->
 
-<div class="row">
-	<div style="max-width:1140px; margin:0 auto; padding-left:15px; padding-right:15px;">
-		<div class="column-first">
-			<p><strong><span style="font-size: 18pt;">Pay attention to design</span></strong>
-				<br />Every system application is carefully designed to be more pleasing to the eye</p>
-		</div>
-		<div class="column-first"> <img src="{{ site.baseurl }}/assets/icon1@2x.png" alt="" /> </div>
-	</div>
+<div id="discriptionArea">
+  <!--Description text-->
+  <div style="width: 100%;display: flex; justify-content: center; flex-wrap: wrap; margin-bottom: 100px">
+    <!--Description cards-->
+    <div class="discriptionCard" style="box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.25);">
+      <img src="{{ site.baseurl }}/assets/icon1@2x.png" alt="icon1" style="width: 64px;
+            height: 64px;margin-top: 50px;">
+      <p style="color: rgba(0, 0, 0, 1);
+            font-size: 24px;
+            text-align: center;
+            font-weight: 500;">Pay attention to design</p>
+      <p style="color: rgba(105, 105, 105, 1);
+            font-size: 20px;
+            text-align: center;
+            font-weight: 300;
+            margin: 17px;">Every system application is carefully designed to be more pleasing to the eye</p>
+    </div>
+    <!--Description cards-->
+    <div class="discriptionCard" style="box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.25);">
+      <img src="{{ site.baseurl }}/assets/icon2@2x.png" alt="icon1" style="width: 64px;
+            height: 64px;margin-top: 50px;">
+      <p style="color: rgba(0, 0, 0, 1);
+            font-size: 24px;
+            text-align: center;
+            font-weight: 500;">Attention to detail</p>
+      <p style="color: rgba(105, 105, 105, 1);
+            font-size: 20px;
+            text-align: center;
+            font-weight: 300;
+            margin: 17px;">From design to product launch, every detail has been strictly checked, just to make it more comfortable</p>
+    </div>
+    <!--Description cards-->
+    <div class="discriptionCard" style="box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.25);">
+      <img src="{{ site.baseurl }}/assets/icon3@2x.png" alt="icon1" style="width: 64px;
+            height: 64px;margin-top: 50px;">
+      <p style="color: rgba(0, 0, 0, 1);
+            font-size: 24px;
+            text-align: center;
+            font-weight: 500;">Respect users</p>
+      <p style="color: rgba(105, 105, 105, 1);
+            font-size: 20px;
+            text-align: center;
+            font-weight: 300;
+            margin: 17px;">We respect every user at all times, just to be more comfortable</p>
+    </div>
+  </div>
 </div>
-<!-- --->
-
-<div style="background: rgb(245, 245, 245) none repeat scroll 0% 0%;" class="row">
-	<div style="max-width:1140px; margin:0 auto; padding-left:15px; padding-right:15px;">
-		<div class="column-first"> <img src="{{ site.baseurl }}/assets/icon2@2x.png" alt="" /> </div>
-		<div class="column-first">
-			<p><strong><span style="font-size: 18pt;">Attention to detail</span></strong>
-				<br />From design to product launch, every detail has been strictly checked, just to make it more comfortable</p>
-		</div>
-	</div>
-</div>
-<!-- --->
-
-<div class="row">
-	<div style="max-width:1140px; margin:0 auto; padding-left:15px; padding-right:15px;">
-		<div class="column-first">
-			<p><strong><span style="font-size: 18pt;">Respect users</span></strong>
-				<br />We respect every user at all times, just to be more comfortable</p>
-		</div>
-		<div class="column-first"> <img src="{{ site.baseurl }}/assets/icon3@2x.png" alt="" /> </div>
-	</div>
-</div>
-<!-- --->
 
 <h1 style="font:40px bold;text-align: center; ">Why Choose CutefishOS?</h1> 
 <h1 style="font:24px normal; color: rgba(105, 105, 105, 1); text-align: center;margin-bottom: 40px;">High-value and careful design brings all users an unprecedented new experience</h1> 
